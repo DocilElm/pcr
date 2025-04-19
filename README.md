@@ -3,7 +3,7 @@ pcr is a ChatTriggers module that attempts to prioritize right click when both c
 this might be more useful for higher ping players
 
 # Installation
-1. Download the zip from releases
+1. Download the zip from [Releases](https://github.com/DocilElm/pcr/releases)
 2. Extract the zip
 3. Get the folder that is called `PrioritizeRightClick`
 4. Check if there's another folder with the same name inside this folder, if there isn't copy otherwise go inside and copy the folder inside
