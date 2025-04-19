@@ -1,0 +1,8 @@
+{
+  "name": "PrioritizeRightClick",
+  "creator": "DocilElm",
+  "description": "Attempts to prioritize right click when both clicks are held down (might be useful for high ping players)",
+  "version": "1.0.0",
+  "entry": "index.js",
+  "requires": ["tska"]
+}
